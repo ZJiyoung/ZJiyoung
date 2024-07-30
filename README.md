@@ -1,7 +1,10 @@
 
-Skills: HTML, CSS, Javascript
+HTML, CSS, Javascript
 - interested in React
 - going to learn Node.js
+
+Python
+SQL
 
 <!--
 **ZJiyoung/ZJiyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
