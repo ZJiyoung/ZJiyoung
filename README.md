@@ -1,5 +1,5 @@
 
-HTML, CSS, Javascript
+HTML, CSS, Javascript, 
 Python, SQL
 
 
